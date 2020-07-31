@@ -1,2 +1,2 @@
 # lightcontrol
-it conrtols my lights it just redirects to http://144.217.35.158:25605/
+just communicates with a server to show a message on an lcd
